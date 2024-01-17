@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @moranthuang
+- 🌱 A backend development engineer
 - 👀 I’m interested in cloud native、middleware、big data、go、java
-- 🌱 I’m currently learning cloud native
 - 📫 How to reach me moranthuang@outlook.com
